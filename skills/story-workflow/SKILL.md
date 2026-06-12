@@ -1,6 +1,6 @@
 ---
 name: story-workflow
-description: Use when an engineer wants to start working on a Jira ticket, Confluence story, or GitHub issue/file. Guides the full workflow: read the ticket, clarify requirements, locate the repo, branch from latest main/master, plan tasks, understand codebase patterns, implement, verify tests pass, and leave changes for human review.
+description: "Use when an engineer wants to start working on a Jira ticket, Confluence story, or GitHub issue/file. Guides the full workflow: read the ticket, clarify requirements, locate the repo, branch from latest main/master, plan tasks, understand codebase patterns, implement, verify tests pass, and leave changes for human review."
 ---
 
 # Story Workflow
